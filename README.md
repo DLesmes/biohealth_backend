@@ -1,5 +1,5 @@
-# [Biohealth Consultorio Online](https://gitlab.com/DLesmes/biohealth-consultorio-online-g1b24-uis/-/blob/main/README.md) 
-#### Grupo 1 del curso Desarrollo de Software (B24) del ciclo 4 de la [Universidad Industrial de Santander](https://lms.uis.edu.co/) (UIS) Dentro del marco del programa [MisiónTic2022](https://www.misiontic2022.gov.co/portal/)
+# [Biohealth Private Consultory](https://github.com/DLesmes/biohealth_backend/blob/main/README.md) (backend)
+#### Software development course b24 cycle 4 group 1 of the [industrial university of santander](https://lms.uis.edu.co/) (UIS) Within the framework of the program [MisiónTic2022](https://www.misiontic2022.gov.co/portal/)
 
-Este repositorio es el código fuente del modelo mínimo viable inicial de una **aplicación web** en **Nodejs** para el backend y **Angular** (HTML, CSS, Javascript) para el Frontend, desplegado a través de un servidor web en la nube
+This is the backend source code of the minimum viable product of a **web app** develop in **Nodejs** for the [backend](https://github.com/DLesmes/biohealth_backend/blob/main/README.md) and **Angular** (HTML, CSS, Javascript, typescrip) for the [frontend](https://github.com/DLesmes/biohealth_frontend/blob/main/README.md), deploy through Heroku.
 
